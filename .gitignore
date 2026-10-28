@@ -1,0 +1,12 @@
+# Godot 4 editor cache and imported resources
+.godot/
+
+# Local logs and OS clutter
+*.log
+.DS_Store
+Thumbs.db
+
+# Exported builds (keep source-only repository)
+build/
+export/
+export_presets.cfg
